@@ -62,10 +62,6 @@ main {
     display: block;
 }
 
-main h1 {
-    color: red;
-}
-
 main figure img {
     width: 100%;
 }
